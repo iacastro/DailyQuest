@@ -1,1 +1,1 @@
-# DayliQuest
+# DailyQuest
